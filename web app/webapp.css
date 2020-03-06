@@ -1,0 +1,48 @@
+#foto{
+	width: 100%;
+}
+
+.icon{
+	width: 15%;
+}
+
+.mdl-textfield__label{
+	background-color: white;
+
+}
+.mdl-textfield__input{
+	width: 100%;
+}
+
+
+
+
+.mais{
+	margin-left: 80%;
+	margin-bottom: -10%;
+}
+.poema{
+	margin-bottom: -10%;
+}
+
+
+#buttons{
+	 margin-top: 2%;
+	 width: 10%;
+	 height: 75%;
+	 margin-left: 7%;
+}
+
+
+.row{
+	 margin-top: 7%;
+	 margin-left: 5%;
+     display: flex;
+	 flex-direction: row;
+
+}
+
+.demo-card-square
+{
+	margin-left: 5%;
+}
